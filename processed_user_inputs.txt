@@ -1,0 +1,16 @@
+Example 1:
+Original : Hey, can u plz tell me where’s my order??
+Processed: hey can you please tell me wheres my order <confusion>
+
+Example 2:
+Original : i didn’t receive my parcel yet!!!!
+Processed: i didnt receive my parcel yet <emphasis>
+
+Example 3:
+Original : Whr’s my ordr 😡😡
+Processed: whrs my order <angry_face> <angry_face> <frustrated>
+
+Example 4:
+Original : delivery late af... i want refund now
+Processed: delivery late as f*** i want refund now <frustrated>
+
